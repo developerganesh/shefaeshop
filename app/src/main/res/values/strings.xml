@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Shefaeshop</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_account">Account</string>
+    <string name="image">Image</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+<!--    <string name="facebook_app_id">201826287505269</string>-->
+<!--    <string name="fb_login_protocol_scheme">fb201826287505269</string>-->
+
+    <string name="facebook_app_id">219777856204464</string>
+    <string name="fb_login_protocol_scheme">fb219777856204464</string>
+
+    <!--<string name="server_client_id">364205543335-cr273fmgdc9n2uqfkrlb6075uid84eht.apps.googleusercontent.com</string>-->
+    <string name="server_client_id">924278507539-f9bi024hqqrbdvd8qmq05k9rgpgoer0q.apps.googleusercontent.com</string>
+
+</resources>
